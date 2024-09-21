@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm [DEBBINDU BAIRAGI] 👋
 
-<!--
-**debbairagi/debbairagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my portfolio! I'm a [professional Django Developer with Expertise in Python Machine Learning Tools and Scrapy] passionate about [Web Scraping].
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Languages**: Python etc.
+- **Frameworks**:Rest, Django, etc.
+- **Tools**: Git etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projects
+Here are a few projects I've worked on:
+
+### [Project 1 Name](https://github.com/username/project1)
+- Short description of the project.
+- Key features or technologies used: `React`, `Node.js`, `API`.
+
+### [Project 2 Name](https://github.com/username/project2)
+- Short description of the project.
+- Key features or technologies used: `Python`, `Machine Learning`, `Pandas`.
+
+## 📫 Contact Me
+- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-profile)
+
